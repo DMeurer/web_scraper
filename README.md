@@ -15,8 +15,8 @@ Why is this an Excalidraw file export and not a mermaid diagram? — Because wit
 
 # Found a bug?
 
-Please report it to me, so I can fix it. You can contact me via [email](mailto:dominik.meurer@aesculap.de).
-You can also create an issue on GitHub if you are familiar with it.
+Please report it to me, so I can fix it.
+You can just create an issue on GitHub.
 
 # Usage
 
