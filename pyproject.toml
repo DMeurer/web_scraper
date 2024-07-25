@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "web_scraper_dmeurer"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
 	{ name="Dominik Meurer", email="dom.meurer@gmx.de" },
 ]
